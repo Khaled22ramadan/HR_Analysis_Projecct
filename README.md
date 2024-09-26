@@ -2,7 +2,7 @@
 # HR_Analysis_Projecct
 HR Analytics Dashboard aimed at providing critical insights into key workforce metrics
 
-I am pleased to share a recent project I completed, where I utilized Power BI to create an interactive HR Analytics Dashboard aimed at providing critical insights into key workforce metrics. The dashboard is designed to help HR departments make data-driven decisions by presenting detailed analytics on the following:
+I am pleased to share a recent project I completed, where I utilized "Power BI" to create an interactive HR Analytics Dashboard aimed at providing critical insights into key workforce metrics. The dashboard is designed to help HR departments make data-driven decisions by presenting detailed analytics on the following:
 
 #📊 Employee Demographics:
 
